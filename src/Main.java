@@ -1,5 +1,6 @@
 
 import displaydevices.CurrentConditionsDisplay;
+import displaydevices.WeatherStatsDisplay;
 import weatherdata.WeatherDataObject;
 
 public class Main {
@@ -7,6 +8,7 @@ public class Main {
 
         WeatherDataObject weatherDataObject = new WeatherDataObject();
         CurrentConditionsDisplay currentConditionsDisplay = new CurrentConditionsDisplay(weatherDataObject);
+        WeatherStatsDisplay weatherStatsDisplay = new WeatherStatsDisplay(weatherDataObject);
 
         currentConditionsDisplay.display();
 
@@ -21,6 +23,7 @@ public class Main {
         weatherDataObject.setState(30, 20, 1010);
 
         currentConditionsDisplay.display();
+        weatherStatsDisplay.display();
 
 
     }

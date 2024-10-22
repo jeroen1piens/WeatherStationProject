@@ -7,8 +7,6 @@
     <list default="true" id="74ddcfc6-9e95-4b30-899b-36b1d37ecbfb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/displaydevices/CurrentConditionsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/displaydevices/CurrentConditionsDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/displaydevices/ForecastDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/displaydevices/ForecastDisplay.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/displaydevices/WeatherStatsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/displaydevices/WeatherStatsDisplay.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,13 +76,22 @@
       <option name="project" value="LOCAL" />
       <updated>1729613467810</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Third commit&#10;&#10;CurrentConditionsDisplay finished">
+      <option name="closed" value="true" />
+      <created>1729615087257</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729615087257</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="Second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
+    <MESSAGE value="Third commit&#10;&#10;CurrentConditionsDisplay finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Third commit&#10;&#10;CurrentConditionsDisplay finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
