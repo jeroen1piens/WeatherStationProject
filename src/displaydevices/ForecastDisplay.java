@@ -1,4 +1,4 @@
 package displaydevices;
 
-public class ForecastDisplay implements Observer {
+public class ForecastDisplay {
 }

@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74ddcfc6-9e95-4b30-899b-36b1d37ecbfb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/displaydevices/CurrentConditionsDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/displaydevices/DisplayElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/displaydevices/ForecastDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/displaydevices/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/displaydevices/WeatherStatsDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weatherdata/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weatherdata/WeatherDataObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/displaydevices/CurrentConditionsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/displaydevices/CurrentConditionsDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/displaydevices/ForecastDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/displaydevices/ForecastDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/displaydevices/WeatherStatsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/displaydevices/WeatherStatsDisplay.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,15 +36,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/jeroe/Documents/Studies/Zelf studie/Programmeren/Java/headfirst_design_patterns/WeatherStationProject&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/jeroe/Documents/Studies/Zelf studie/Programmeren/Java/headfirst_design_patterns/WeatherStationProject"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -72,11 +70,30 @@
       <option name="project" value="LOCAL" />
       <updated>1729610477737</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second commit">
+      <option name="closed" value="true" />
+      <created>1729613467810</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729613467810</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.UnknownFormatConversionException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
